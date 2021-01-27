@@ -1,0 +1,30 @@
+#header-nav{
+	background-color: green;
+	border: 0;
+	border-radius: 0;
+}
+.navbar-default .navbar-brand{
+	color: black;
+}
+.navbar-default .navbar-nav .menu-item{
+	text-align: center;
+	color: black;
+	font-size: 1.3em;
+}
+.container-fluid .text-center{
+	color: black;
+	font-size: 1.5em;
+	margin-bottom: 2%;
+}
+.container-fluid .text{
+	height: 800px;
+	background-color: lightgray;
+	overflow:hidden;
+	padding: 5px 15px 0px 15px;
+	text-align:justify;
+	margin-bottom: 50px;
+}
+#li2{
+border-bottom: 2px solid black;
+border-top: 2px solid black;
+}
